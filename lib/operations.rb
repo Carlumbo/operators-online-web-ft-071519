@@ -14,7 +14,7 @@ so if true the right side of the colon will be return else it will be left side.
 
 
 def not_safe?(speed)
-	speed > 60 ? true : else
+	speed > 60 ? true : false
 end
 	
 
