@@ -1,6 +1,5 @@
 def unsafe?(speed)
-  
-
+speed > 60 ? "unsafe" : "safe"
 end
 =begin 
 if statements return true than the code that follows will execute 
