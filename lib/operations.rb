@@ -1,10 +1,12 @@
 def unsafe?(speed)
-if speed < 60 
-  true 
-elsif speed < 40 
-true 
-else 
-  false 
+  if speed < 60 
+   true 
+  elsif speed < 40 
+    true 
+  end
+  else 
+    false 
+  end
 end
 =begin 
 if statements return true than the code that follows will execute 
