@@ -1,4 +1,5 @@
 def unsafe?(speed)
+  
 
 end
 =begin 
@@ -8,6 +9,8 @@ if age is less than true reutn baby
 else retrun not a baby
 ? is the if : is the else 
 so if true the right side of the colon will be return else it will be left side. 
+
+=end 
 
 
 def not_safe?(speed)
